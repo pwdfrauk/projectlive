@@ -94,7 +94,7 @@ section {
 /*=====================================================*/
 .header-section {
 	/*background:linear-gradient(rgba(167, 169, 254, .8), rgba(167, 169, 254, .5))*/
-	background:linear-gradient(rgba(1, 1, 1, .1), rgba(1, 1, 1, .1)),url('../img/155.jpg');
+	background:linear-gradient(rgba(1, 1, 1, .1), rgba(1, 1, 1, .2)),url('../img/155.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center center;
